@@ -154,5 +154,5 @@ models:
         type: string
         label: bio
       - name: avatar
-        type: string
+        type: image
         label: avatar
