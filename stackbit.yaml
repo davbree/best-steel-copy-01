@@ -158,3 +158,5 @@ models:
         label: avatar
       - name: layout
         type: string
+        label: layout
+        hidden: true
