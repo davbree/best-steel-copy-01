@@ -143,4 +143,6 @@ models:
   page:
     type: page
     label: page
-    fields: []
+    fields:
+      - name: ''
+        type: string
