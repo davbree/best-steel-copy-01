@@ -156,5 +156,5 @@ models:
       - name: avatar
         type: image
         label: avatar
-      - name: ''
+      - name: layout
         type: string
