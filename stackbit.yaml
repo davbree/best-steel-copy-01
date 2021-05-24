@@ -150,3 +150,5 @@ models:
       - name: role
         type: string
         label: role
+      - name: ''
+        type: string
