@@ -149,3 +149,4 @@ models:
         label: title
       - name: role
         type: string
+        label: role
