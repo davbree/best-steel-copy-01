@@ -155,3 +155,4 @@ models:
         label: bio
       - name: avatar
         type: string
+        label: avatar
